@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
   </a>
 </div>
-JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS
+<p>JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS</p>
 
 
 #### Бэкенд:
@@ -81,7 +81,7 @@ JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
   </a>
 </div>
-<sub>Node.js, Express, MongoDB, Heroku</sub>
+<p>Node.js, Express, MongoDB, Heroku</p>
 
 #### Software:
 <div>
@@ -95,4 +95,4 @@ JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
 </div>
-<sub>Adobe Illustrator, Adobe XD, Figma</sub>
+<p>Adobe Illustrator, Adobe XD, Figma</p>
