@@ -23,7 +23,12 @@
 
 </div>
 
-### :woman_technologist:  Обо мне: Я Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Я имею более 1,5 лет опыта в этой области. Отдаю свое предпочтение Frontend-разработке. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
+<div align="center"> 
+  <b>
+  Я Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Я имею более 1,5 лет опыта в этой области. Отдаю свое предпочтение Frontend-разработке. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
+  </b>
+</div>
+
 ---
 ### :hammer_and_wrench: Стек технологий:
 
