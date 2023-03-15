@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
   </a>
 </div>
-JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS
+<p>JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS</p>
 
 
 #### Бэкенд:
