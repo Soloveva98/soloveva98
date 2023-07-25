@@ -25,7 +25,7 @@
 
 <div align="center"> 
   <h3>
-     Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Я имею более 1,5 лет опыта в этой области. Отдаю свое предпочтение Frontend-разработке. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
+     Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Я имею более 1,5 лет опыта в этой области. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
   </h3>
 </div>
 
