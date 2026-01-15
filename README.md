@@ -25,7 +25,7 @@
 
 <div align="center"> 
   <h3>
-     Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Я имею более 1,5 лет опыта в этой области. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
+     Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Я имею более 3 лет опыта в этой области. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
   </h3>
 </div>
 
@@ -56,6 +56,9 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
   </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" />
+  </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
   </a>
@@ -68,8 +71,11 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
   </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite.svg" width="36" height="36" alt="Vite" />
+  </a>
 </div>
-<p>JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS</p>
+<p>JavaScript, React, Redux Toolkit, TypeScript, HTML5, CSS3, SASS, Next.js</p>
 
 
 #### Бэкенд:
