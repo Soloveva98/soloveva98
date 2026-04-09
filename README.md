@@ -25,8 +25,13 @@
 
 <div align="center">
   <h3>
-     Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Новосибирска. Имею более 4 лет опыта в этой области. Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
+      Frontend-разработчик из Новосибирска <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br />
+      4+ года опыта.<br />
+      Создаю интерфейсы для высоконагруженных систем.<br />
+      TypeScript, React, Next.js.<br />
+     Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
   </h3>
+
   <a href="https://anstsoloveva.ru" target="_blank" rel="noreferrer">Мое портфолио ⭢</a>
 </div>
 
