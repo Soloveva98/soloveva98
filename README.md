@@ -1,21 +1,4 @@
 <div id="header" align="center">
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUwOGIyN2RkZjViMmQ3ZmYzOTgzNGMwZWI4NzRmM2IxZTNhMzIzOSZjdD1n/xsE65jaPsUKUo/giphy.gif" width="100"/>
-
-  <div id="badges">
-    <a href="https://instagram.com/anastaciasoloveva?igshid=YmMyMTA2M2Y=">
-      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="mailto:nastyasoloveva7@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://t.me/anstsoloveva">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Tg Badge"/>
-    </a>
-  </div>
-
-  <img src="https://komarev.com/ghpvc/?username=soloveva98&style=flat-square&color=ff69b4" alt=""/>
-  
   <h1>
     Привет! Меня зовут Анастасия
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,102 +10,34 @@
   <h3>
       Frontend-разработчик из Новосибирска <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br />
       4+ года опыта.<br />
-      Создаю интерфейсы для высоконагруженных систем.<br />
-      TypeScript, React, Next.js.<br />
-     Стремлюсь к профессиональному росту, совершенствую свои навыки и всегда ищу новые подходы к решению задач.
+      Основной стек: React, TypeScript, Next.js.<br />
+      Создаю и развиваю интерфейсы для высоконагруженных систем, уделяя внимание архитектуре, производительности, масштабируемости и поддерживаемости кода, включая пользовательский опыт.<br />
   </h3>
 
   <a href="https://anstsoloveva.ru" target="_blank" rel="noreferrer">Мое портфолио ⭢</a>
 </div>
 
 ---
+### Контакты:
 
-### :hammer_and_wrench: Стек технологий:
+[<img src="https://images.icon-icons.com/3053/PNG/512/telegram_alt_macos_bigsur_icon_189661.png" alt="Telegram" width="52px" />](https://t.me/anstsoloveva)
+[<img src="https://images.icon-icons.com/3053/PNG/512/google_gmail_macos_bigsur_icon_190121.png" alt="Gmail" width="52px" />](mailto:nastyasoloveva7@gmail.com)
+<!-- [<img src="https://images.icon-icons.com/285/PNG/256/social_linkedin_box_blue_256_30641.png" width="51px" alt="Linkedin" />](mailto:nastyasoloveva7@gmail.com) -->
 
-#### Фронтенд: 
-<div>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJS" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
-  <a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer">
-     <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Zustand" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite.svg" width="36" height="36" alt="Vite" />
-  </a>
-</div>
-<p>NextJS, TypeScript, JavaScript, React, Redux Toolkit, Zustand, HTML5, CSS3, SASS, TailwindCSS</p>
+---
 
+### Стек технологий:
 
-#### Бэкенд:
-<div>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+**Фронтенд**: NextJS, TypeScript, JavaScript, React, Redux, Zustand, HTML5, SCSS, TailwindCSS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,ts,js,redux,html,sass,tailwind,vite,webpack,git,figma&perline=6" />
   </a>
-  <a href="https://www.postgresql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-     <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="36" height="36" alt="Prisma" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
-  </a>
-</div>
-<p>Node.js, PostgreSQL, Prisma, Express, MongoDB, Heroku</p>
+</p>
 
-#### Software:
-<div>
-  <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
+**Бэкенд / API / Data**: Node.js, Express.js, REST API, PostgreSQL, Prisma, MongoDB
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,nodejs,express,prisma,postgres,prisma,mongodb" />
   </a>
-  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-</div>
-<p>Adobe Illustrator, Adobe XD, Figma</p>
+</p>
